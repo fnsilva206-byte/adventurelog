@@ -13,3 +13,6 @@ docs/cursor-prompts/
 docs/FIX_PACKAGE_PLAN.md
 docs/GITHUB_COMMENTS.md
 BUGFIX_DOCUMENTATION.md
+
+# Claude Code per-user settings
+.claude/settings.local.json
